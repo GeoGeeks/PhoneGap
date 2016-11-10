@@ -1,0 +1,13 @@
+
+/*Propio*/
+.app {
+    display: none;
+}
+/* Set html, body height */
+html, body {
+    height: 100%;
+}
+/* Set the map div height */
+#mapDiv {
+    height: 100%;
+}
